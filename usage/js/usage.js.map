@@ -1,0 +1,1 @@
+{"version":3,"sources":["color-usage.coffee"],"names":[],"mappings":"AAAA;AAAA,MAAA;;EAAA,WAAA,GAAc,KAAK,CAAC,WAAN,CACZ;IAAA,MAAA,EAAQ,SAAA;aACN,KAAK,CAAC,aAAN,CAAoB,KAApB,EAA2B;QAAC,WAAA,EAAa,MAAd;OAA3B;IADM,CAAR;GADY;AAAd","file":"usage.js","sourcesContent":["ColorSample = React.createClass\r\n  render: ->\r\n    <div className='test'></div>"],"sourceRoot":"/source/"}
