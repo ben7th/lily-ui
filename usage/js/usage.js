@@ -1,11 +1,10 @@
 (function() {
-  var ColorSample;
-
-  ColorSample = React.createClass({
+  this.ColorSamplePage = React.createClass({
+    displayName: 'ColorSamplePage',
     render: function() {
       return React.createElement("div", {
         "className": 'test'
-      });
+      }, "this is a sample.");
     }
   });
 
